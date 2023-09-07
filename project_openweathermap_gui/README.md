@@ -5,9 +5,9 @@ it uses a public api form openweathermap to get some data.
 This data is a json structure.
 In the code there is a small example how to extract some data from json.
 
-![Example](https://raw.githubusercontent.com/w2k8/example_python_code/project_openweathermap_gui/images/demo_openweathermap_gui1.png)
+![Example](https://raw.githubusercontent.com/w2k8/example_python_code/main/project_openweathermap_gui/images/demo_openweathermap_gui1.png)
 
-![Example](https://raw.githubusercontent.com/w2k8/example_python_code/project_openweathermap_gui/images/demo_openweathermap_gui2.png)
+![Example](https://raw.githubusercontent.com/w2k8/example_python_code/main/project_openweathermap_gui/images/demo_openweathermap_gui2.png)
 
 Included a basic form of logging.
 
