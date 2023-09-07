@@ -1,0 +1,6 @@
+DEBUG 2023-09-07T14:09:44.304 - Starting new HTTPS connection (1): openweathermap.org:443
+DEBUG 2023-09-07T14:09:44.479 - https://openweathermap.org:443 "GET /data/2.5/weather?appid=439d4b804bc8187953eb36d2a8c26a02 HTTP/1.1" 200 None
+INFO 2023-09-07T14:09:44.480 - Het weer voor Amsterdam vandaag: 26.65 ℃ en clear sky
+DEBUG 2023-09-07T14:26:22.360 - Starting new HTTPS connection (1): openweathermap.org:443
+DEBUG 2023-09-07T14:26:22.556 - https://openweathermap.org:443 "GET /data/2.5/weather?appid=439d4b804bc8187953eb36d2a8c26a02 HTTP/1.1" 200 None
+INFO 2023-09-07T14:26:22.559 - Het weer voor Amsterdam vandaag: 28.47 ℃ en clear sky
